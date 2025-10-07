@@ -7,7 +7,7 @@
 **VAT Verification:** [Agenzia delle Entrate Portal](https://telematici.agenziaentrate.gov.it/VerificaPIVA/Scegli.do)  
 *(the VAT number must be entered manually on the official website to perform the verification)*  
 **Non-Profit Registry Verification (RUNTS):** [Italian Ministry of Labour Portal](https://servizi.lavoro.gov.it/runts/it-it/Lista-enti)  
-*(to verify the registration, go to the section “Enti iscritti”, download the PDF, and search for “ASSOCIAZIONE DI PROMOZIONE SOCIALE ARENA STUDIOS A.P.S.”. The document will list Giovanni Brebbia as the president of the association)*
+*(to verify the registration, go to the section “Enti iscritti”, download the PDF, and search for “ASSOCIAZIONE DI PROMOZIONE SOCIALE ARENA STUDIOS A.P.S.”. The document will list Brebbia Giovanni as the president of the association)*
 
 
 ## About Us
