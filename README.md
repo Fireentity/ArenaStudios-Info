@@ -9,12 +9,8 @@
 **Non-Profit Registry Verification (RUNTS):** [Italian Ministry of Labour Portal](https://servizi.lavoro.gov.it/runts/it-it/Lista-enti)  
 *(to verify the registration, go to the section “Enti iscritti”, download the PDF, and search for “ASSOCIAZIONE DI PROMOZIONE SOCIALE ARENA STUDIOS A.P.S.”. The document will list Brebbia Giovanni as the president of the association)*
 
-
 ## About Us
 ArenaStudios A.P.S. is a non-profit association that manages and develops the ArenaCraft project, an online community built around a multi-version (1.8–1.21.x) and multi-mode Minecraft server. The association is dedicated to fostering innovation in online gaming, managing community donations, and building custom technological solutions to improve the player experience.
-
-## What We Do
-ArenaStudios combines community management with software development. The team has created proprietary Java plugins and engineered advanced systems such as a replay framework built with Protocol Buffers, enabling full recording and serialization of server packets for match replays. Alongside in-game features, ArenaStudios also developed and deployed the official portal [arenacraft.it](https://arenacraft.it) using Laravel and Vue.js. The website includes a fully integrated Stripe-powered shop, replacing Tebex, which allowed the association to significantly cut operational costs and transaction fees while providing a seamless donation and purchase system for the community.
 
 ## Roles and Responsibilities
 As co-founder, treasurer, and developer, I have been directly involved in both the administrative and technical aspects of ArenaStudios. I oversee financial management for the association, design and implement server-side features, and contribute to the development of the web platform and payment infrastructure.
